@@ -19,6 +19,7 @@ The portfolio is currently generating a severe -15.33% net profit margin, transl
 
 # Tools & Technologies
 **Power BI**: 3 page Interactive Dashboard used field parramete, DAX, Power Query
+
 **Python**: Data cleaning, Structure Verification, univarant/bivarant analysis
 
 **Dataset**
@@ -48,7 +49,9 @@ Leverage Tipping Point: While the overall portfolio average LTI sits at 218%, de
  Structural Hotspots: Risk concentrates heavily within Business loans (12.33%), the 21–25% interest bracket (17.82%), and the 37–48 month maturity band (which carries the peak average interest rate of 13.51%).
   Compounded Demographic Risk: Default rates peak aggressively among the 18–24 age bracket (21.03%) and unemployed borrowers (29.18%)
 
-# Project Structure 
+# Project Structure
+
+```text
 loan-default-risk-analysis/
 ├── PowerBI/
 │   └── loan_default_dashboard.pbix
@@ -58,5 +61,6 @@ loan-default-risk-analysis/
 │   ├── dashboard_overview.png
 │   ├── demographics.png
 │   └── loan_analysis.png
-└── README.md            
+└── README.md
+```           
 
