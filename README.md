@@ -24,6 +24,10 @@ The portfolio is currently generating a severe -15.33% net profit margin, transl
 * **Source:** Kaggle
 
 # Dashboard
+![image alt](https://github.com/thapadikshya/Loan-Default-Dashboard/blob/3eafce30b39e6ed725746830bc1d941dd7e0671b/dashboard/overview.png)
+![image alt](https://github.com/thapadikshya/Loan-Default-Dashboard/blob/cd5a85c6dd2c15a59661afe78d78ecd7542fbf12/dashboard/demographics.png)
+![image alt](https://github.com/thapadikshya/Loan-Default-Dashboard/blob/cd5a85c6dd2c15a59661afe78d78ecd7542fbf12/dashboard/loananalysis.png)
+
 
 
  **Data Preparation & Engineering**
