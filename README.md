@@ -4,7 +4,7 @@
 ![image alt](https://github.com/thapadikshya/Loan-Default-Dashboard/blob/3eafce30b39e6ed725746830bc1d941dd7e0671b/dashboard/overview.png)
 
 
-**Project Overview**
+# Project Overview
 This project analyzes a **$32.58B consumer loan portfolio** from the perspective of a Chief Risk Officer (CRO) to identify the borrower characteristics and loan features that contribute most to loan defaults.
 Using **Python** for data cleaning and **Power BI** for relational star-schema modeling, DAX engineering, and dynamic visualization, the dashboard helps identify high-risk borrowers and provides insights that can support better underwriting decisions.
 
