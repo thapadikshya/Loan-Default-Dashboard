@@ -19,9 +19,12 @@ The portfolio is currently generating a severe -15.33% net profit margin, transl
 
 # Tools & Technologies**
 **Power BI**: 3 page Interactive Dashboard used field parramete, DAX, Power Query
-
+**Python**: Data cleaning, Structure Verification, univarant/bivarant analysis
 **Dataset**
-* **Source:** Kaggle (Loan Portfolio Data)
+* **Source:** Kaggle
+
+# Dashboard
+
 
  **Data Preparation & Engineering**
 The raw data was programmatically cleaned using Python and structured into a highly efficient relational model:
