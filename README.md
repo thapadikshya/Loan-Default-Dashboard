@@ -5,19 +5,20 @@
 
 
 # Project Overview
-This project analyzes a **$32.58B consumer loan portfolio** from the perspective of a Chief Risk Officer (CRO) to identify the borrower characteristics and loan features that contribute most to loan defaults.
-Using **Python** for data cleaning and **Power BI** for relational star-schema modeling, DAX engineering, and dynamic visualization, the dashboard helps identify high-risk borrowers and provides insights that can support better underwriting decisions.
+This project analyzes a $32.58B consumer loan portfolio from the perspective of a Chief Risk Officer (CRO) to identify the borrower characteristics and loan features that contribute most to loan defaults.This project identifies the high-risk borrower segments, loan features, and financial ratios (DTI and LTI) that should receive additional review before loan approval.
 
-**Business Problem**
-The portfolio is currently generating a severe **-15.33% net profit margin**, translating to a **$569.77M net financial loss** driven heavily by **$4.29B in defaulted loans**. 
+# Business Problem
+The portfolio is currently generating a severe -15.33% net profit margin, translating to a $569.77M net financial loss driven heavily by $4.29B in defaulted loans. The portfolio's 11.61% default rate has led to significant financial losses. 
 
-The portfolio's 11.61% default rate has led to significant financial losses. This project identifies the high-risk borrower segments, loan features, and financial ratios (DTI and LTI) that should receive additional review before loan approval.
+# Buisness Question Answered
+1. Why is our portfolio losing money despite steady interest income?
+2. Where is our systemic risk concentrated?
+3. Which customer segments represent our highest default risk?
+4. At what leverage point do borrowers break?
+5. Are high interest rates creating a death spiral for borrowers?
 
-**Tools & Technologies**
-* **Business Intelligence:** Power BI Desktop
-* **Data Engineering:** Python (Pandas/Jupyter), Power Query
-* **Analytical Calculations:** Data Analysis Expressions (DAX)
-* **Version Control:** Git & GitHub
+# Tools & Technologies**
+**Power BI**: 3 page Interactive Dashboard used field parramete, DAX, Power Query
 
 **Dataset**
 * **Source:** Kaggle (Loan Portfolio Data)
