@@ -20,6 +20,7 @@ The portfolio is currently generating a severe -15.33% net profit margin, transl
 # Tools & Technologies
 **Power BI**: 3 page Interactive Dashboard used field parramete, DAX, Power Query
 **Python**: Data cleaning, Structure Verification, univarant/bivarant analysis
+
 **Dataset**
 * **Source:** Kaggle
 
@@ -49,16 +50,13 @@ Leverage Tipping Point: While the overall portfolio average LTI sits at 218%, de
 
 # Project Structure 
 loan-default-risk-analysis/
-│
 ├── PowerBI/
-│   ├── loan_default_dashboard.pbix  
+│   └── loan_default_dashboard.pbix
 ├── Python/
-│   ├── loanDefaultPrediction.ipynb  
-│   
+│   └── loanDefaultPrediction.ipynb
 ├── dashboard/
-│   ├── dashboard_overview.png 
-│   ├── demographics.png       
-│   └── loan_analysis.png      
-│                 
-└── README.md               
+│   ├── dashboard_overview.png
+│   ├── demographics.png
+│   └── loan_analysis.png
+└── README.md            
 
