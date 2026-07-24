@@ -1,6 +1,7 @@
 
 # Loan Default Risk Analysis
 ### Reducing Portfolio Losses Through Risk-Based Underwriting
+![image alt](https://github.com/thapadikshya/Loan-Default-Dashboard/blob/3eafce30b39e6ed725746830bc1d941dd7e0671b/dashboard/overview.png)
 
 
 **Project Overview**
