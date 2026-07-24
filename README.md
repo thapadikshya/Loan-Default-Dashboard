@@ -44,9 +44,13 @@ Proves that defaults peak at 17.82% for high-interest loans (21–25%) and spike
 
 # Key Insights
 Severe Capital Leakage: $4.29B in defaults have completely erased the portfolio's $3.72B expected revenue, yielding an alarming portfolio risk concentration HHI score of 3.23K**.
+
 Low-Income Vulnerability: Borrowers earning under $30K carry the highest default concentration at 21.96% (nearly double the next closest income tier).
+
 Leverage Tipping Point: While the overall portfolio average LTI sits at 218%, defaulting accounts experience a catastrophic structural spike to 325%.
+
  Structural Hotspots: Risk concentrates heavily within Business loans (12.33%), the 21–25% interest bracket (17.82%), and the 37–48 month maturity band (which carries the peak average interest rate of 13.51%).
+ 
   Compounded Demographic Risk: Default rates peak aggressively among the 18–24 age bracket (21.03%) and unemployed borrowers (29.18%)
 
 # Project Structure
